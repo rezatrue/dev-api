@@ -76,7 +76,7 @@ INSERT INTO Offers (offerPrice, offerLimit, offerDescription) VALUES (40, 0, "40
 INSERT INTO Offers (offerPrice, offerLimit, offerDescription) VALUES (45, 0, "45% Discount");
 INSERT INTO Offers (offerPrice, offerLimit, offerDescription) VALUES (50, 0, "50% Discount");
 
-INSERT INTO Sub_users (userName, userEmail, userPassword, userPhone, userAddress, userCreated) VALUES ("Iron Man", "iran.man@mail.com", "123Iron", "01517107806", "House #7, Road #7, Iron street, DK, BD", "2019-02-02 00:00:00");
+INSERT INTO Sub_users (userName, userEmail, userPassword, userPhone, userAddress, userCreated) VALUES ("Iron Man", "iron.man@mail.com", "123Iron", "01517107806", "House #7, Road #7, Iron street, DK, BD", "2019-02-02 00:00:00");
 INSERT INTO Sub_users (userName, userEmail, userPassword, userPhone, userAddress, userCreated) VALUES ("Test User", "test.user@mail.com", "123Test", "01517107806", "House #t, Road #t, test street, TT, TT", "2019-02-02 00:00:00");
 INSERT INTO Sub_users (userName, userEmail, userPassword, userPhone, userAddress, userCreated) VALUES ("Ali Reza", "ali.reza@mail.com", "123Ali", "01919414295", "House #1A, Road #10, West street, Dhaka Cantonment, Dhaka", "2019-02-02 00:00:00");
 
