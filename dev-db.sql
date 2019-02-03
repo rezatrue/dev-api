@@ -34,7 +34,7 @@ PRIMARY KEY (proSerialNo, pacSerialNo),
 CONSTRAINT FK_Products_Packages FOREIGN KEY (proSerialNo) REFERENCES Products(proSerialNo));
 
 CREATE TABLE IF NOT EXISTS Offers ( 
-OfferserialNo int(11) NOT NULL AUTO_INCREMENT,
+offerSerialNo int(11) NOT NULL AUTO_INCREMENT,
 offerPrice int(7) NOT NULL,
 offerLimit int(8) NOT NULL,
 offerDescription varchar(100) NOT NULL,

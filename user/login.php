@@ -53,7 +53,7 @@ if($num > 0){
 		
 		$user_info=array(
 			"serialNo" => $serialNo,
-			"name" => $name,
+			"name" => $name
 		);
 	}
 	if($name != null) 
